@@ -1,0 +1,83 @@
+  
+
+*******************Product_API*************************
+
+
+*******************create-product***********************
+http://localhost:8080/product/products
+
+******************Delete_Product*****************
+http://localhost:8080/product/delete
+
+****************Update_Product**************
+http://localhost:8080/product/update/id
+
+
+*******************find-all-item***********************
+http://localhost:8080/product/findallitem
+
+
+********************Damage-****************************
+
+http://localhost:8080/product/damage
+
+**************Damage_Get_All_Data*********************
+http://localhost:8080/product/getaddData
+
+http://localhost:8080/product/delete/id
+
+
+******************varient_Product**********
+http://localhost:8080/product/varient_product
+
+
+*******************Purchage_Product*********
+http://localhost:8080/product/purchage_create
+
+http://localhost:8080/product/purchagefinddata
+
+# **********Purchage_delete*******************
+http://localhost:8080/product/purchage_deleted
+
+
+
+
+
+
+
+
+
+
+
+   *******************Create_Product********************
+   http://localhost:8080/create
+
+
+   *******************Update_Product********************
+
+
+
+   *******************Delete_Product********************
+
+
+
+
+
+
+
+
+# ***************************************************User_Register*********************************************
+
+http://localhost:8080/register
+
+
+# ***************************************************User_Login********************************************
+
+
+http://localhost:8080/login
+
+
+
+#********************************************************Get_All_Users*************************************
+
+http://localhost:8080/findallproduct
